@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/micp-website/static/css/main.a617e044.chunk.css",
+    "main.js": "/micp-website/static/js/main.dd0c157d.chunk.js",
+    "main.js.map": "/micp-website/static/js/main.dd0c157d.chunk.js.map",
+    "runtime-main.js": "/micp-website/static/js/runtime-main.868efc09.js",
+    "runtime-main.js.map": "/micp-website/static/js/runtime-main.868efc09.js.map",
+    "static/js/2.15288eb9.chunk.js": "/micp-website/static/js/2.15288eb9.chunk.js",
+    "static/js/2.15288eb9.chunk.js.map": "/micp-website/static/js/2.15288eb9.chunk.js.map",
+    "index.html": "/micp-website/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/micp-website/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.15288eb9.chunk.js.LICENSE.txt": "/micp-website/static/js/2.15288eb9.chunk.js.LICENSE.txt",
+    "static/media/logo.9053f93f.png": "/micp-website/static/media/logo.9053f93f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.868efc09.js",
+    "static/js/2.15288eb9.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.dd0c157d.chunk.js"
+  ]
+}
