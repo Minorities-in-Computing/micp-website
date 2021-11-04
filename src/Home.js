@@ -62,7 +62,7 @@ class Home extends Component {
                         </h4>
                     </Grid>
                 </Grid>
-                <Button style = {{left: '60%'}}
+                <Button style = {{left: '65%'}}
                     href = 'https://docs.google.com/document/d/1z4OCUyh_MrxiVRa5R3ugU1OvgIfYrDr-/edit?usp=sharing&ouid=114499817865975683376&rtpof=true&sd=true'
                     variant="contained">
                     View our constituion

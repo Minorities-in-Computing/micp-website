@@ -14,6 +14,7 @@ function App() {
         <Navbar/>
             <div>
               <Switch>
+                <Route exact path = "/micp-website" component = {Home}/>
                 <Route exact path = "/" component = {Home}/>
                 <Route exact path = "/about" component = {AboutUs}/>
                 <Route exact path = "/team" component = {Team}/>

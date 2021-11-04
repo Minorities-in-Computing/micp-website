@@ -22,7 +22,10 @@ const styles = ({
 class Home extends Component {
     render() {
         return(
-            <h1 style = {{paddingTop: '5%'}}>Team</h1>
+            <div style = {{paddingTop: '5%'}}>
+                <h1 style = {{fontFamily: 'sans-serif', fontSize: '50px', textAlign: 'center'}}>Meet the Board!</h1>
+            </div>
+            
         );
         
     }
