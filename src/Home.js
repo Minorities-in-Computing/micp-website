@@ -7,6 +7,7 @@ import DialogActions from '@mui/material/DialogActions';
 import DialogContent from '@mui/material/DialogContent';
 import DialogContentText from '@mui/material/DialogContentText';
 import DialogTitle from '@mui/material/DialogTitle';
+import AOS from './DataAOS';
 import TextField from '@mui/material/TextField';
 const styles = ({
     img: {
@@ -51,9 +52,9 @@ class Home extends Component {
             <div style = {{paddingTop: '5%'}}>
                 <Grid container spacing = {3}>
                     <Grid items xs = {6} style = {{paddingLeft: '10%'}}>
-                        <img src = {logo} alt = 'MICP logo'/>
+                        <img data-aos = 'fade-up' src = {logo} alt = 'MICP logo'/>
                     </Grid>
-                    <Grid items xs = {6} style = {{paddingTop: '5%', paddingRight: '10%'}}>
+                    <Grid data-aos = 'fade-down' items xs = {6} style = {{paddingTop: '5%', paddingRight: '10%'}}>
                         <h1 style = {{fontFamily: 'sans-serif', fontSize: '50px', textAlign: 'center'}}>Minorities in Computing</h1>
                         <h1 style = {{fontFamily: 'sans-serif', fontSize: '30px', textAlign: 'center'}}>George Mason University</h1>
                         <h4 style = {{fontFamily: 'sans-serif', fontSize: '20px', textAlign: 'center', fontWeight: 'normal'}}>
