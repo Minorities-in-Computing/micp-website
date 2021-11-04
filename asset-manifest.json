@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/micp-website/static/css/main.a617e044.chunk.css",
-    "main.js": "/micp-website/static/js/main.dd0c157d.chunk.js",
-    "main.js.map": "/micp-website/static/js/main.dd0c157d.chunk.js.map",
+    "main.js": "/micp-website/static/js/main.97397c8d.chunk.js",
+    "main.js.map": "/micp-website/static/js/main.97397c8d.chunk.js.map",
     "runtime-main.js": "/micp-website/static/js/runtime-main.868efc09.js",
     "runtime-main.js.map": "/micp-website/static/js/runtime-main.868efc09.js.map",
     "static/js/2.15288eb9.chunk.js": "/micp-website/static/js/2.15288eb9.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.868efc09.js",
     "static/js/2.15288eb9.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.dd0c157d.chunk.js"
+    "static/js/main.97397c8d.chunk.js"
   ]
 }
