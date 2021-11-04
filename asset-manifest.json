@@ -1,21 +1,30 @@
 {
   "files": {
     "main.css": "/micp-website/static/css/main.a617e044.chunk.css",
-    "main.js": "/micp-website/static/js/main.97397c8d.chunk.js",
-    "main.js.map": "/micp-website/static/js/main.97397c8d.chunk.js.map",
+    "main.js": "/micp-website/static/js/main.e3edf619.chunk.js",
+    "main.js.map": "/micp-website/static/js/main.e3edf619.chunk.js.map",
     "runtime-main.js": "/micp-website/static/js/runtime-main.868efc09.js",
     "runtime-main.js.map": "/micp-website/static/js/runtime-main.868efc09.js.map",
-    "static/js/2.15288eb9.chunk.js": "/micp-website/static/js/2.15288eb9.chunk.js",
-    "static/js/2.15288eb9.chunk.js.map": "/micp-website/static/js/2.15288eb9.chunk.js.map",
+    "static/css/2.ae9e5f60.chunk.css": "/micp-website/static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.a59d409d.chunk.js": "/micp-website/static/js/2.a59d409d.chunk.js",
+    "static/js/2.a59d409d.chunk.js.map": "/micp-website/static/js/2.a59d409d.chunk.js.map",
     "index.html": "/micp-website/index.html",
+    "static/css/2.ae9e5f60.chunk.css.map": "/micp-website/static/css/2.ae9e5f60.chunk.css.map",
     "static/css/main.a617e044.chunk.css.map": "/micp-website/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.15288eb9.chunk.js.LICENSE.txt": "/micp-website/static/js/2.15288eb9.chunk.js.LICENSE.txt",
-    "static/media/logo.9053f93f.png": "/micp-website/static/media/logo.9053f93f.png"
+    "static/js/2.a59d409d.chunk.js.LICENSE.txt": "/micp-website/static/js/2.a59d409d.chunk.js.LICENSE.txt",
+    "static/media/events.1d7e4560.png": "/micp-website/static/media/events.1d7e4560.png",
+    "static/media/logo.9053f93f.png": "/micp-website/static/media/logo.9053f93f.png",
+    "static/media/pr.232c018a.png": "/micp-website/static/media/pr.232c018a.png",
+    "static/media/prez.3bc053fe.png": "/micp-website/static/media/prez.3bc053fe.png",
+    "static/media/secretary.542d21f2.png": "/micp-website/static/media/secretary.542d21f2.png",
+    "static/media/treasurer.a06ef21f.png": "/micp-website/static/media/treasurer.a06ef21f.png",
+    "static/media/vp.60623266.png": "/micp-website/static/media/vp.60623266.png"
   },
   "entrypoints": [
     "static/js/runtime-main.868efc09.js",
-    "static/js/2.15288eb9.chunk.js",
+    "static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.a59d409d.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.97397c8d.chunk.js"
+    "static/js/main.e3edf619.chunk.js"
   ]
 }
